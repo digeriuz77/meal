@@ -1,0 +1,25 @@
+# Indicator Reference Sheet (IRS / PIRS) Template
+
+Copy one section per indicator. Preserve exact framework wording; mark missing fields `"Not supplied"` or `"Decision required"` rather than inventing values.
+
+## [Indicator ID and Exact Framework Name]
+- **Source ID / Framework Row:** [ID, row, filename#section]
+- **Result Statement and Level:** [Exact result statement; Activity / Output / Intermediate Outcome / Outcome / Goal; rationale]
+- **Type & Standard/Custom Status:** [Quantitative / Qualitative / Composite; Standard (cite code/framework) vs. Custom]
+- **Operational Definition:** [Construct, inclusion/exclusion rules, deduplication rule for learners vs. events, population universe, academic/observation window]
+- **Numerator / Denominator / Formula:** [Exact formula, or Not supplied]
+- **Unit & Direction of Improvement:** [Unit; higher-is-better / lower-is-better / target-band]
+- **Baseline:** [Value, academic year/term, source, collection method, or Not yet measured]
+- **Target(s):** [Periodic and end-of-program targets, timeframe, rationale, approval status, or Not supplied]
+- **Education & Equity Disaggregation:** [Sex/gender, age/grade band, disability (WG/CFM), geography, institution type, program/field of study, language/vulnerability; privacy/small-cell suppression notes]
+- **Data Source / Collection Tool / Method:** [EMIS/LMS/Assessment/Observation/Survey; tool readiness & approval status]
+- **Collection Frequency vs. Reporting Frequency:** [Collection cadence vs. reporting cadence; academic calendar alignment]
+- **Responsible Roles:** [Collection, quality verification/IRR, analysis, reporting, or Not supplied]
+- **Data Quality Risks, Safeguarding & QA:** [VIPRT risks, child assent/parent consent, PII controls, proposed or confirmed verification steps]
+- **Missing-Data Treatment:** [How blank/absent/attrited cases are reported separately from zero]
+- **Intended Use:** [Decision, learning, or accountability use]
+- **Evidence IDs:** [filename#heading, page, table, or row]
+- **Assumptions:** [Explicit list]
+- **Proposed Recommendations:** [Clearly labeled as proposed; distinct from source facts]
+- **Decisions & Approvals Required (`MEAS-D*`):** [Unresolved definitions, denominators, targets, owners, or permissions]
+- **Change History:** [Prior wording, revision summary, authorizing source, approval status]
